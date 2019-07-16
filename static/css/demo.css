@@ -1,0 +1,16 @@
+body{
+  background: yellow;
+  color: orange;
+}
+
+h1{
+  color: red;
+}
+
+body{
+  background:
+  url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwg6N2tc_J6FyEd3dODiaxAWKwpF-EFu8nUS1PYz4o8FFgtNw4_g");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
